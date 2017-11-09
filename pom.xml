@@ -76,4 +76,44 @@
             
         </plugins>
     </build>
+    <developers>
+        <developer>
+            <id>deepsidhu1313</id>
+            <name>Navdeep Singh</name>
+            <email>deepsidhu1313@users.noreply.github.com</email>
+            <organization>S13</organization>
+            <organizationUrl>http://s13.co.in</organizationUrl>
+            <roles>
+                <role>Project-Administrator</role>
+                <role>Developer</role>
+            </roles>
+            <timezone>-5</timezone>
+        </developer>
+    </developers>
+    <organization>
+        <name>S13 Development Team</name>
+        <url>http://s13.co.in</url>
+    </organization>
+    <licenses>
+        <license>
+            <name>GNU General Public License</name>
+            <url>http://www.gnu.org/licenses/</url>
+            <distribution>repo</distribution>
+            <comments>GNU General Public License</comments>
+        </license>
+        <license>
+            <name>json.org</name>
+            <url>http://json.org/</url>
+            <distribution>repo</distribution>
+            <comments>Copyright of JSON.org</comments>
+        </license>
+    </licenses>
+    <scm>
+        <connection>scm:git:git://github.com/deepsidhu1313/common-json.git</connection>
+        <developerConnection>scm:git:git@github.com:deepsidhu1313/common-json.git</developerConnection>
+        <url>https://github.com/deepsidhu1313/common-json</url>
+    </scm>
+    <name>Common JSON Library</name>
+    <description>Common JSON Library for SIPS</description>
+    <url>https://github.com/deepsidhu1313/common-json</url>
 </project>
